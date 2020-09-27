@@ -1,3 +1,8 @@
+# General Information
+
+Mastering Angular Story Book (using Jest for testing and using Component Driving Development CDD)
+
+
 # AngularStoryBook
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
