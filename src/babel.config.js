@@ -10,7 +10,7 @@ module.exports = function(api) {
         },
       },
     ],
-    '@babel/preset-typescript',
+    '@babel/preset-typescript'
   ];
   const plugins = [];
   return {
